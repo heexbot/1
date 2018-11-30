@@ -1,4 +1,4 @@
-token="NDQ1OTc3MzgyODAxODk5NTIx.DuMP_A.Vcc65-xXfDANlKvZBm_MZ8Y8X3w"
+token=NDQ1OTc3MzgyODAxODk5NTIx.DuMP_A.Vcc65-xXfDANlKvZBm_MZ8Y8X3w
 owner=  323888904602124299
 prefix= k2
 game= Kings
