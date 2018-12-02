@@ -1,6 +1,6 @@
 token=NDYzNTYyMjgyODUzNDY2MTUy.DuWbUQ.CGJAkcmXmwNCpJvCCfBC3yzZasA
-owner=441554686399741962,503547627346984960
+owner=441554686399741962
 prefix= H
-game=
+game= .henry
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
