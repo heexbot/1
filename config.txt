@@ -1,6 +1,6 @@
-token=NTE5NTUxNzMxNDI0ODIxMjQ4.Dug_bg.Hbq_-GdC5ipBdEeoMGGUKVY9QKc
+token=NTE5NTU4MzY1ODgyNjEzNzYw.DuhEJw.-h6uYMzupW5_1DQBkfOyNbS-rFo
 owner=379212980946075648
-prefix= 6
-game= 6play , 6help
+prefix= C
+game= cplay , chelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
