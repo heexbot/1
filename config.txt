@@ -1,4 +1,4 @@
-token=NDQwODY0MDc4MTE0NTg2NjI0.Dugz8Q.RCaf751J1j4VCDOdyKy4rWkX16M
+token=NTE5NTUxNzMxNDI0ODIxMjQ4.Dug_bg.Hbq_-GdC5ipBdEeoMGGUKVY9QKc
 owner=379212980946075648
 prefix= 6
 game= 6play , 6help
