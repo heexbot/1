@@ -1,5 +1,5 @@
 token=NDYzNTYyMjgyODUzNDY2MTUy.DuWbUQ.CGJAkcmXmwNCpJvCCfBC3yzZasA
-owner=441554686399741962
+owner=503547627346984960
 prefix= H
 game= .henry
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
