@@ -1,6 +1,6 @@
-token=NTQ0ODk2MDE5MjcyMzAyNTkz.D0RyLg.-NCqk-Kayb87FOCb6CsjByovkxg
-owner=443528755525451776
-prefix= &
-game= 1play l 1help
+token=NTUxMzk2MzQzMDQ2ODY0OTI5.D1wXdg.ouCk8jOm8iQY8r30oEyBMKfUsXA
+owner=454062883274489856
+prefix= P
+game= Pplay l Phelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
